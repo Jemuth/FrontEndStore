@@ -1,6 +1,8 @@
 #OS junk files
 [Tt]humbs.db
 *.DS_Store
+*.AppleDouble
+*.LSOverride
 
 #Visual Studio files
 *.[Oo]bj
@@ -30,6 +32,17 @@ obj/
 [Dd]ebug*/
 [Rr]elease*/
 Ankh.NoLoad
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
 #Directories
 __MACOSX/
