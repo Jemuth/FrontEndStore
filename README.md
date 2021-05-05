@@ -1,3 +1,2 @@
-# Tutorial tienda front end
+# "Tienda Front-End"
 Como hacer una pagina simple para venta de merchadising.
-Tutorial hecho por Juan Pablo de la Torre.
